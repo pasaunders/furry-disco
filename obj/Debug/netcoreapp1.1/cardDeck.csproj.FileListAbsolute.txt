@@ -1,0 +1,8 @@
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\bin\Debug\netcoreapp1.1\cardDeck.deps.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\bin\Debug\netcoreapp1.1\cardDeck.runtimeconfig.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\bin\Debug\netcoreapp1.1\cardDeck.runtimeconfig.dev.json
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\bin\Debug\netcoreapp1.1\cardDeck.dll
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\bin\Debug\netcoreapp1.1\cardDeck.pdb
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\obj\Debug\netcoreapp1.1\cardDeck.AssemblyInfo.cs
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\obj\Debug\netcoreapp1.1\cardDeck.dll
+c:\Users\kaorti\code\microsoft_class\c_sharp\cardDeck\obj\Debug\netcoreapp1.1\cardDeck.pdb
